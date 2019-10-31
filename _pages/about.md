@@ -19,7 +19,6 @@ redirect_from:
 
 * I earned a Bachelor's degree from <a href="https://www.depaul.edu/Pages/default.aspx" target=" ">Depaul University</a> in 2012 and served as a <a href ="https://jetprogramusa.org/" target=" ">JET program participant</a> from 2013-2015. 
 
-
-#Recent News#
+# Recent News
 
 * Attended the <a href="https://jaschicago.org/" target=" ">Japan American Society</a> talk "Walk in U.S., Talk on Japan"
