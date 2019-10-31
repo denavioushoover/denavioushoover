@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p aling="center">
-<img src="https://github.com/denavioushoover/denavioushoover.github.io/blob/master/images/UnitedNationsFlags.jpg"/>
+<img src="img/UnitedNationsFlags.jpg">
 </p>
 
 
