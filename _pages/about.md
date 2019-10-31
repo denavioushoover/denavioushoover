@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="denavioushoover.png">
+<img src="denavioushoover.github.io/denavioushoover.png">
 
 * I am a MS Anthropology student in the <a href ="https://soa.illinoisstate.edu/" target=" ">Department of Sociology and Anthropology</a> at <a href="https://www.illinoisstate.edu/" target=" ">Illinois State University</a>, advise by Prof. <a href="https://soa.illinoisstate.edu/faculty_staff/profile.php?ulid=nadachi#fs-tabs-accord1" target=" ">Nobuko Adachi</a>. 
 
