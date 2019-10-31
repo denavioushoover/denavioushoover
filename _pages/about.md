@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,3 +14,8 @@ redirect_from:
 * My reasearch interests include international relations in the Asia-Pacific region, transnational activism, comparative politics, and sexual minority advocacy. 
 
 * I earned a Bachelor's degree from <a href="https://www.depaul.edu/Pages/default.aspx">Depaul University</a> in 2012 and served as a <a href ="https://jetprogramusa.org/">JET program participant</a> from 2013-2015. 
+
+
+#Recent News
+
+* Attended the Japan American Society talk "Walk in U.S., Talk on Japan".
