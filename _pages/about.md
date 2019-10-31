@@ -18,4 +18,4 @@ redirect_from:
 
 #Recent News
 
-* Attended the <a href="https://jaschicago.org/" target=" ">Japan American Society</a> talk "Walk in U.S., Talk on Japan".
+* Attended the <a href="https://jaschicago.org/" target=" ">Japan American Society</a> talk "Walk in U.S., Talk on Japan"
